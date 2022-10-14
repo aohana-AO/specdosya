@@ -47,8 +47,9 @@ https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-W05.html#prefecture27
 ![image](https://user-images.githubusercontent.com/84378453/195753665-dcfe633c-811b-45d1-b048-4b2f0ba0e3b5.png)
 
 <hr>
-### ききくるでの表示
 
+### ききくるでの表示
+<br>
 https://www.jma.go.jp/bosai/flood/
 
 ![image](https://user-images.githubusercontent.com/84378453/195753710-0e12230e-ae0e-4e65-83fa-fe3e0faf7595.png)
