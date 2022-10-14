@@ -26,13 +26,15 @@ https://www.gpvweather.com/jmaxml.php?k=%E6%8C%87%E5%AE%9A%E6%B2%B3%E5%B7%9D%E6%
 https://xml.kishou.go.jp/tec_material.html
 
 <hr>
+### ※地理情報 －市町村等（指定河川洪水予報） [ zip形式：145 MB ]は市町村（二次区分）あたりのものしかなく河川のshpは見つけられなかった
 https://www.data.jma.go.jp/developer/gis.html
-※地理情報 －市町村等（指定河川洪水予報） [ zip形式：145 MB ]は市町村（二次区分）あたりのものしかなく河川のshpは見つけられなかった
+
 ![image](https://user-images.githubusercontent.com/84378453/195752655-f1d59d1d-804d-41d2-af61-5e6e9a8f50c7.png)
 <hr>
+### そのため国土交通省のデータを使用（非商用のもの）。以下は大阪の河川情報
 
 https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-W05.html#prefecture27
-そのため国土交通省のデータを使用（非商用のもの）。以下は大阪の河川情報
+
 ![image](https://user-images.githubusercontent.com/84378453/195753365-e0545dec-e0f6-4e7a-85a6-2425cde05ca6.png)
 <hr>
 大阪の警報と河川codeを合わせて色分けしたもの
