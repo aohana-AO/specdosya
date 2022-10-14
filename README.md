@@ -5,7 +5,7 @@
 # 指定河川
 河川のshpは<a href='https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-W05.html#prefecture27'>https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-W05.html#prefecture27</a>から
 
-
+<hr>
 ### 河川について解説気象庁
 https://www.jma.go.jp/jma/kishou/know/bosai/flood.html
 
@@ -15,7 +15,7 @@ https://www.jma.go.jp/jma/kishou/know/bosai/flood.html
 ### ここに指定河川氾濫アーカイブ乗ってる（あんまりリアルタイムの氾濫情報ないからここを利用）
 https://www.gpvweather.com/jmaxml.php?k=%E6%8C%87%E5%AE%9A%E6%B2%B3%E5%B7%9D%E6%B4%AA%E6%B0%B4%E4%BA%88%E5%A0%B1
 
-
+<hr>
 
 
 
@@ -23,28 +23,30 @@ https://www.gpvweather.com/jmaxml.php?k=%E6%8C%87%E5%AE%9A%E6%B2%B3%E5%B7%9D%E6%
 ### 解説資料はここのzipファイルから
 https://xml.kishou.go.jp/tec_material.html
 
-
+<hr>
 https://www.data.jma.go.jp/developer/gis.html
 ※地理情報 －市町村等（指定河川洪水予報） [ zip形式：145 MB ]は市町村（二次区分）あたりのものしかなく河川のshpは見つけられなかった
 ![image](https://user-images.githubusercontent.com/84378453/195752655-f1d59d1d-804d-41d2-af61-5e6e9a8f50c7.png)
-
+<hr>
 
 https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-W05.html#prefecture27
-そのため国土交通省のデータを使用（非商用のもの）
-以下は大阪の河川情報
+そのため国土交通省のデータを使用（非商用のもの）。以下は大阪の河川情報
 ![image](https://user-images.githubusercontent.com/84378453/195753365-e0545dec-e0f6-4e7a-85a6-2425cde05ca6.png)
-
+<hr>
 大阪の警報と河川codeを合わせて色分けしたもの
 ![image](https://user-images.githubusercontent.com/84378453/195753444-5ef8c515-7523-458b-8582-763adaebc964.png)
 
 
+<hr>
 警報xmlの中の河川情報について書かれているもの
 ![image](https://user-images.githubusercontent.com/84378453/195753581-d3b1e38f-ad0e-41bf-aa2e-e71e4e1de785.png)
 
+<hr>
 
 予報codeの種類。（色分けならここで判断になる）
 ![image](https://user-images.githubusercontent.com/84378453/195753665-dcfe633c-811b-45d1-b048-4b2f0ba0e3b5.png)
 
+<hr>
 
 https://www.jma.go.jp/bosai/flood/
 ききくるでの表示
