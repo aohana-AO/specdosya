@@ -6,14 +6,15 @@
 河川のshpは<a href='https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-W05.html#prefecture27'>https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-W05.html#prefecture27</a>から
 
 
+### 河川について解説気象庁
 https://www.jma.go.jp/jma/kishou/know/bosai/flood.html
-河川について解説気象庁
 
+### ここに指定河川氾濫アーカイブ乗ってる（あんまりリアルタイムの氾濫情報ないからここを利用）
 https://www.gpvweather.com/jmaxml.php?k=%E6%8C%87%E5%AE%9A%E6%B2%B3%E5%B7%9D%E6%B4%AA%E6%B0%B4%E4%BA%88%E5%A0%B1
-ここに指定河川氾濫アーカイブ乗ってる（あんまりリアルタイムの氾濫情報ないからここを利用）
 
+### 解説資料はここのzipファイルから
 https://xml.kishou.go.jp/tec_material.html
-解説資料はここのzipファイルから![image](https://user-images.githubusercontent.com/84378453/195752344-a497ce2f-4730-4608-bad9-fd906a8d5bf8.png)
+![image](https://user-images.githubusercontent.com/84378453/195752344-a497ce2f-4730-4608-bad9-fd906a8d5bf8.png)
 
 https://www.data.jma.go.jp/developer/gis.html
 ※地理情報 －市町村等（指定河川洪水予報） [ zip形式：145 MB ]は市町村（二次区分）あたりのものしかなく河川のshpは見つけられなかった
