@@ -40,8 +40,8 @@ https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-W05.html#prefecture27
 <hr>
 
 ### 大阪の警報と河川codeを合わせて色分けしたもの
-<br>
 ![image](https://user-images.githubusercontent.com/84378453/195753444-5ef8c515-7523-458b-8582-763adaebc964.png)
+
 
 
 <hr>
