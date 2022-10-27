@@ -27,7 +27,9 @@ https://www.gpvweather.com/jmaxml.php?k=%E6%8C%87%E5%AE%9A%E6%B2%B3%E5%B7%9D%E6%
 https://xml.kishou.go.jp/tec_material.html
 
 <hr>
+
 ### ※地理情報 －市町村等（指定河川洪水予報） [ zip形式：145 MB ]は市町村（二次区分）あたりのものしかなく河川のshpは見つけられなかった
+
 <br>
 https://www.data.jma.go.jp/developer/gis.html
 
